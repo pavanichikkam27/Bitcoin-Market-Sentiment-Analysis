@@ -5,7 +5,7 @@ Data analysis project exploring the relationship between Bitcoin market sentimen
   - Pandas
   - Matplotlib
   - Google Colab
-  - 
+     
 **Key Findings**
 
 Extreme Greed showed the highest average profit.
